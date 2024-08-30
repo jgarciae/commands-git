@@ -2,7 +2,7 @@
 
 ## 1. git init
 ```bash
-echo "# commands-git" ]] README.md
+echo "# commands-git" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
